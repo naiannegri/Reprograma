@@ -22,7 +22,9 @@ Se formos falar sobre a diferença entre o framework e a biblioteca, veremos que
 Existem 5 frameworks que são muito utilizados em JavaScript, são eles:
 
 1. Node.js
+
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)
+
 O Node.js é um framework que te permite criar toda a aplicação web (back e front) usando apenas JavaScript. É uma aplicação gratuita e roda em vários sistemas operacionais. O seu sistema utiliza os pacotes rpm, muito utilizado em diversas bibliotecas open sources. O rpm é um pacote de gerenciamento que instala, desinstala e gerencia os pacotes.
 
 2. React
