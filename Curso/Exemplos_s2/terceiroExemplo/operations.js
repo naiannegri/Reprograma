@@ -102,16 +102,13 @@ let IMC = pesoKg/(alturaMetros**2)
 //console.log(IMC)
 
 //exemplo 9 - recebe 4 notas, calcula a média e exibe no console
-let nota1 = prompt('Qual a primeira nota?')
-let nota2 = prompt('Qual a segunda nota?')
-let nota3 = prompt('Qual a terceira nota?')
-let nota4 = prompt('Qual a quarta nota?')
-console.log((nota1+nota2+nota3+nota4)/4)
+let nota1 = 5
+let nota2 = 6
+let nota3 = 7
+let nota4 = 8
+console.log("A média das notas é:", (nota1+nota2+nota3+nota4)/4)
 
-rl.on('line', (input) => {
-    console.log(`Received: ${input}`);
-  });
 
 //exemplo 10 - conversor de temperatura
-let temperaturaAgora = prompt('Qual a temperatura agora (em graus Celsius)?')
+let temperaturaAgora = 20
 //console.log('A temperatura em Fahrenheit é: ', (temperaturaAgora*9/5)+32)
