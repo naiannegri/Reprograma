@@ -98,7 +98,7 @@ let mmValue = metersValue/1000
 //exemplo 8 - calcular IMC
 let alturaMetros = "1.64"
 let pesoKg = "51"
-let IMC = pesoKg/(alturaMetros**2)
+let IMC = pesoKg/Math.pow(alturaMetros)
 //console.log(IMC)
 
 //exemplo 9 - recebe 4 notas, calcula a média e exibe no console
