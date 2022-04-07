@@ -111,4 +111,4 @@ console.log("A média das notas é:", (nota1+nota2+nota3+nota4)/4)
 
 //exemplo 10 - conversor de temperatura
 let temperaturaAgora = 20
-//console.log('A temperatura em Fahrenheit é: ', (temperaturaAgora*9/5)+32)
+console.log('A temperatura em Fahrenheit é: ', (temperaturaAgora*9/5)+32)
